@@ -1,0 +1,12 @@
+#backgroundimage{
+
+    background-image: url("../images/IMG-20230408-WA0038.jpg");
+    height: 1000px;
+   
+}
+
+#alignment{
+    display: flex;
+    justify-content: space-between;
+}
+
